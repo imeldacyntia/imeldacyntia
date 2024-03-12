@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww38.imeldacyntia.io/)
+![logo](https://github.com/imeldacyntia/imeldacyntia/blob/main/github%20banner.JPG)
 <h1 align="center">Hi 👋, I'm Imelda Cyntia</h1>
 <h3 align="center">I am a second-year undergraduate student pursuing a degree in informatics engineering at Bengkulu University. With a keen interest in programming, I am eager to enhance my knowledge and skills in this field. Exploring various programming languages, software development methodologies, and emerging technologies, I aim to deepen my understanding and proficiency in the dynamic realm of computer science.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
