@@ -1,18 +1,14 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://imeldacyntia.io)
 <h1 align="center">Hi 👋, I'm Imelda Cyntia</h1>
-<h3 align="center">I am a second-year undergraduate student pursuing a degree in informatics engineering at Bengkulu University. With a keen interest in programming, I am eager to enhance my knowledge and skills in this field. Exploring various programming languages, software development methodologies, and emerging technologies, I aim to deepen my understanding and proficiency in the dynamic realm of computer science</h3>
+<h3 align="center">I am a third year student majoring in Informatics Engineering at Bengkulu University. I am proficient in various programming languages including Java, JavaScript, Python, SQL, and C++ as well as markup languages including HTML, CSS. I am also interested in Machine Learning, Artificial Intelligence, and Software Developer. I am eager to learn more about these fields and use my skills to solve real-world problems. I am a hard worker and I am always available to learn new things. I am also a team player and can work well with others. I am confident that I will be a valuable asset to any team.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeldacyntia&label=Profile%20views&color=0e75b6&style=flat" alt="imeldacyntia" /> </p>
 
-- 🌱 I’m currently learning **about front-end development and its integration with IoT devices to create responsive and interactive user interfaces for smart systems**
-
-- 💬 Ask me about **Html,CSS**
+- 🌱 I’m currently learning **about Machine Learning, Artificial Intelligence, and Software Developer**
 
 - 📫 How to reach me **imeldacyntia@gmail.com**
-
-- ⚡ Fun fact **I am interested in working as a Web Developer and Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
