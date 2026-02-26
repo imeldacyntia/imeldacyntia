@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Imelda%20Cyntia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20Computer%20Vision%20Engineer%20|%20ML%20Engineer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Imelda%20Cyntia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Computer%20Vision%20Engineer%20|%20ML%20Engineer&descAlignY=55&descSize=18"/>
 </p>
 
 <h3 align="center">Building Intelligent Vision Systems with Deep Learning</h3>
