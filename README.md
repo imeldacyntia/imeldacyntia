@@ -6,12 +6,12 @@
 
 ---
 
-### 👁️ About Me
+### About Me
 
-🎓 Final-year Informatics Engineering student at Universitas Bengkulu  
-🤖 Specialized in Computer Vision & Digital Image Processing  
-🏆 Bank Indonesia Scholarship Awardee  
-📊 Data Science Facilitator – Coding Camp powered by DBS Foundation  
+- Final-year Informatics Engineering student at Universitas Bengkulu  
+- Specialized in Computer Vision & Digital Image Processing  
+- Bank Indonesia Scholarship Awardee  
+- Data Science Facilitator – Coding Camp powered by DBS Foundation  
 
 I focus on developing **end-to-end Computer Vision systems**, from data preprocessing and feature extraction to training deep learning models and deploying interactive AI applications.
 
@@ -21,21 +21,21 @@ I am passionate about transforming visual data into intelligent, real-world solu
 
 ---
 
-### 🧠 Technical Expertise
+### Technical Expertise
 
-#### 🔹 Computer Vision
+#### Computer Vision
 - Object Detection (YOLO)
 - Image Processing & Augmentation
 - Feature Extraction
 - Real-time Vision Systems
 
-#### 🔹 Machine Learning & Deep Learning
+#### Machine Learning & Deep Learning
 - CNN Architectures
 - Model Evaluation & Optimization
 - TensorFlow / Keras
 - Scikit-learn
 
-#### 🔹 Programming & Tools
+#### Programming & Tools
 - Python
 - OpenCV
 - Pandas & NumPy
@@ -45,7 +45,7 @@ I am passionate about transforming visual data into intelligent, real-world solu
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - Optimizing YOLO-based detection models  
 - Improving inference performance  
@@ -54,7 +54,7 @@ I am passionate about transforming visual data into intelligent, real-world solu
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 📧 imeldacyntia@gmail.com  
 🔗 https://www.linkedin.com/in/imeldacyntia  
@@ -62,7 +62,7 @@ I am passionate about transforming visual data into intelligent, real-world solu
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeldacyntia&show_icons=true&locale=en&layout=compact" />
