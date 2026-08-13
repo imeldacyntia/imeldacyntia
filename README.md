@@ -1,50 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Imelda%20Cyntia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=200&section=header&text=Imelda%20Cyntia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
 </p>
 
-<h3 align="center">Turning Data into Insights and Intelligent Solutions</h3>
+<h3 align="center">Building Intelligent Solutions with Machine Learning and Computer Vision</h3>
 
 ---
 
 ### About Me
 
 - Informatics graduate from Universitas Bengkulu
-- Interested in Data Science, Machine Learning, and Artificial Intelligence
+- Interested in Machine Learning, Computer Vision, and Deep Learning
 - Data Science Facilitator – Coding Camp powered by DBS Foundation
 - Machine Learning Cohort – Coding Camp powered by DBS Foundation
 - Bank Indonesia Scholarship Awardee
 
-I enjoy turning data into meaningful insights and exploring how machine learning can be applied to solve real-world problems.
+I am interested in building intelligent systems that learn from data and solve real-world problems. My main interests are Machine Learning, Computer Vision, and Deep Learning, particularly in developing and improving models for practical applications.
 
-I have hands-on experience in data analysis, data preprocessing, feature engineering, and machine learning using Python and tools such as Pandas, NumPy, and Scikit-learn. I have also developed interactive data science applications using Streamlit and explored Computer Vision and object detection using YOLO.
+I have hands-on experience in data preprocessing, feature engineering, machine learning, and model evaluation using Python and tools such as Pandas, NumPy, and Scikit-learn. I have also explored Computer Vision and object detection using YOLO, as well as developing and deploying interactive machine learning applications with Streamlit.
 
-I am interested in building data-driven and AI-powered solutions while continuously developing my technical and problem-solving skills.
+My experience as a Machine Learning Cohort participant and Data Science Facilitator has strengthened my technical, problem-solving, mentoring, and collaboration skills.
 
 ---
 
 ### Technical Skills
 
-#### Data Science & Machine Learning
-- Data Analysis
-- Data Preprocessing
-- Feature Engineering
+#### Machine Learning & Deep Learning
 - Machine Learning
-- Model Evaluation
+- Deep Learning
 - Predictive Modeling
+- Model Evaluation
+- Feature Engineering
+- TensorFlow / Keras
+- Scikit-learn
 
-#### AI & Computer Vision
+#### Computer Vision
 - Object Detection
 - YOLO
 - Image Processing
 - Image Augmentation
 - Computer Vision
 
-#### Programming & Tools
-- Python
+#### Data Science
+- Data Analysis
+- Data Preprocessing
 - Pandas
 - NumPy
-- Scikit-learn
-- TensorFlow
+
+#### Programming & Tools
+- Python
 - Streamlit
 - MySQL
 - Git & GitHub
@@ -53,11 +56,11 @@ I am interested in building data-driven and AI-powered solutions while continuou
 
 ### Current Focus
 
-- Developing my skills in Data Science and Machine Learning
-- Exploring Artificial Intelligence and Computer Vision
-- Building practical machine learning projects
-- Improving data-driven problem-solving skills
-- Developing and deploying interactive ML applications
+- Developing and improving Machine Learning and Deep Learning models
+- Exploring Computer Vision and object detection
+- Building practical AI solutions for real-world problems
+- Experimenting with model optimization and evaluation
+- Deploying machine learning applications
 
 ---
 
